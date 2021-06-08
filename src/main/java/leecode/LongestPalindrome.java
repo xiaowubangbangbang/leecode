@@ -1,3 +1,5 @@
+package leecode;
+
 public class LongestPalindrome {
     public static void main(String[] args) {
         String babad = longestPalindrome("ababad");
